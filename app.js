@@ -71,10 +71,10 @@ function questionSixGuess() {
       break;
     } else if (question6Guess < num) {
       alert('Too low!');
-      // count++;
+      
     } else if (question6Guess > num) {
       alert('Too high!');
-      // count++;
+    
     }
     alert(`The number I have is ${num}`);
   }
@@ -103,6 +103,6 @@ function questionSevenGuess() {
 
 questionSevenGuess();
 
-alert(`Say cheese. Participation much obliged ${visitorname}. You got ${score} correct answers! Nice!`)
+alert(`Say cheese. Participation much obliged ${visitorname}. You got ${score} correct answers out of 7! Nice!`)
 
 // Me llama Nù Harley and I only took a couple of classes of Spanish in high school. What's funny is I got in trouble in my junior/senior year of college for overly participating; how funny is that. I graduated from The Central State University, a historically black university, with a Bachelor's Degree of Science in Psychology and a minor in Business Administration. Always enjoyed school and a garden tool for knowledge. I love the brain and all of its functions.  Out of college I started out as a substitute teacher at a local city high school by my school and eventually assisted younger grade levels. I fell for the first graders as I had pessismistic thoughts. Firt corporate job was with Huntington National Bank as a teller.  A goal I have is to become the most thorough, efficient web developer/coder I work myself to be. Networking is my second highest priority aside from learning code. Lastly, creating a legacy for generations after me.
