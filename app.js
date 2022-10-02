@@ -84,7 +84,7 @@ questionSixGuess();
 
 
 let guessChance = 6;
-let correctAns === false
+let correctAns = false
 let favoriteFruit = ['mango', 'blueberry', 'banana', 'orange', 'peach'];
 function questionSevenGuess() {
   for (let i = 0; i <6; i++) {
