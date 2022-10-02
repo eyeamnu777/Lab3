@@ -1,0 +1,26 @@
+body{
+  font-family: 'Figtree', sans-serif;
+  background-color: rgb(200, 28, 174);
+  color: rgb(0, 0, 0);
+  margin-left: 160px;
+}
+
+h1{
+  font-family: sans-serif;
+  background-color: chocolate; color: black;
+  font-size: 5vw;
+  padding: 30px;
+  text-align: center;
+}
+
+ol {
+  background: #cce5ff;
+  color: rgb(20, 118, 216);
+  margin: 7px;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
